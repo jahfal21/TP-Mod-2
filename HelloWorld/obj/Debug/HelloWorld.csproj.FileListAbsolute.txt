@@ -1,0 +1,11 @@
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
